@@ -29,7 +29,7 @@ void quicksort(vector<int>& arr, int low, int high) {
 }
 
 int main() {
-    vector<int> arr = {10, 7, 8, 9, 1, 5};
+    vector<int> arr = {1037, 7872, 826, 9940, 1123, 5729, 2292, 2819, 1620, 8920, 9017, 283, 5282, 9273};
     int n = arr.size();
 
     // Start measuring execution time
